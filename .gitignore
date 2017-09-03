@@ -49,3 +49,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# eclipse project files
+.cproject
+.project
+*.bak
+language.settings.xml
+org.eclipse.cdt.managedbuilder.core.prefs
